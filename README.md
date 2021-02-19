@@ -1,9 +1,9 @@
 # TF-IDF-with-ArchDaily
-I learnd TF-IDF similarlity measure with web page "Arch Daily"
+I learnd TF-IDF similarlity measure with web page named "Arch Daily"
 
 ## Motive
 Recently I read about TF-IDF similarity measure. 
-So I want to use it in real life, I applied "https://www.archdaily.com/" web page. The program finds other titles name similar to the title as user typing. Also, if there is a word user want to find, search an art piecec that contains that word. 
+So I want to use it in real life, I applied "https://www.archdaily.com/" web page. The program finds other titles name similar to the title as user typing. Also, if there is a word user want to find, search an art piececs that contains that word. 
 
 ## Requirement
 - Beautifulsoup
